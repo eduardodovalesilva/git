@@ -5,4 +5,6 @@ curso de git novo na minha vida
 
 
 darlene
-b=vida
+vida
+ensinando git para meu amigos
+
